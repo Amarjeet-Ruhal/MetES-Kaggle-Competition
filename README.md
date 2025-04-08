@@ -49,9 +49,9 @@ The best-performing model was **Random Forest Regressor**.
 | Model                  | Performance (MAE)     |
 |------------------------|------------------------|
 | Random Forest (Best)   | **13.61438**           |
-| Linear Regression      | Close to best          |
-| XGBoost                | Close to best          |
-| Neural Network         | Worst performance      |
+| Linear Regression      | **13.69008**           |
+| XGBoost                | **13.66300**           |
+| Neural Network         | **19.68904**           |
 
 ## 🔍 Feature Importance
 Key features contributing most to the target prediction:
