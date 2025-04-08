@@ -76,8 +76,8 @@ Key features contributing most to the target prediction:
 - `README.md`: Project overview
 
 ## 🧑‍💻 Author
-- [Your Name]
-- [Your Email / GitHub / LinkedIn]
+- [Amarjeet]
+- [GitHub](https://github.com/Amarjeet-Ruhal)]
 
 ---
 
