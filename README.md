@@ -77,7 +77,8 @@ Key features contributing most to the target prediction:
 
 ## 🧑‍💻 Author
 - [Amarjeet]
-- [GitHub](https://github.com/Amarjeet-Ruhal)]
+- [[GitHub](https://github.com/Amarjeet-Ruhal)]
+- [[LinkedIn](https://www.linkedin.com/in/amarjeet-ruhal/)]
 
 ---
 
